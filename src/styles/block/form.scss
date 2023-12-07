@@ -10,7 +10,7 @@
     border: 1px solid transparent;
     border-radius: 40px;
     outline: none;
-    
+
     font-family: inherit;
     font-size: 14px;
     line-height: 20px;
@@ -18,6 +18,7 @@
     &--textarea,
     &::placeholder {
       color: $form-placeholder-color;
+      transition: all $form-transition-time ease-in-out;
     }
 
     &:hover {
