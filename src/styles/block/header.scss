@@ -7,7 +7,7 @@
   background-repeat: no-repeat;
 
   @include onTablet {
-    background-position: center;
+    background-size: cover;
   }
 
   &__content {
@@ -18,20 +18,8 @@
   }
 
   &__top {
+    padding-left: 4px;
     @include topActions;
-  }
-
-  &__logo {
-    background-image: url(../images/mybike-header.svg);
-    width: 130px;
-    height: 38px;
-
-    padding-bottom: 0;
-
-    @include onTablet {
-      width: 187px;
-      height: 56px;
-    }
   }
 
   &__inner-container {
