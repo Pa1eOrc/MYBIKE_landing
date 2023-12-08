@@ -4,4 +4,4 @@
 
 - Page design: [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
-- Demo link page: [DEMO LINK](https://Pa1eOrc.github.io/<repo_name>/)
+- Demo link page: [DEMO LINK]( https://Pa1eOrc.github.io/MYBIKE_landing/)
